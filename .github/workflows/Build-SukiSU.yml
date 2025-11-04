@@ -66,6 +66,7 @@ on:
           - android13
           - android14
           - android15
+          - android16
       KERNEL_VERSION:
        type: choice
        description: "内核版本"
